@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            SKKU COMEDU NLP CS224n
+longtitle:        SKKU COMEDU NLP CS224n
+author:           SKKU COMEDU
+email:            jasonchoi3@g.skku.edu
 description: >
-  Build Jekyll site with the GitBook style.
+  성균관대학교 컴퓨터교육과 학생들의 2022년 겨울 자연어 처리 스터디 입니다. 최신 버전 (2021 Winter)로 진행하였습니다.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://skku-comedu-nlp.github.io/cs224n'
+baseurl:          '/'
 rss:              RSS
 
 toc:
