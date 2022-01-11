@@ -5,7 +5,6 @@ layout: home
 # CS224n 자연어처리 2021 겨울학기 공부 노트
 성균관대학교 컴퓨터교육과 학생들의 2022년 겨울 자연어 처리 스터디 입니다. 최신 버전 (2021 Winter)로 진행하였습니다. 
 
-<br><br>
 
 ## 참여자
 - [최지원](https://jasonchoi.dev)
@@ -16,7 +15,6 @@ layout: home
 - [정소연](https://github.com/happysoy)
 - [최재석](https://github.com/xy5787)
 - [하유진](https://github.com/haujinnn)
-<br><br>
 
 
 ## Lecture Note
