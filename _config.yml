@@ -17,7 +17,8 @@ toc:
   enabled: true
   h_min: 1
   h_max: 3
-
+lsi: false
+excerpt_separator: "\n\n"
 # markdown render engine.
 markdown:         kramdown
 kramdown:
