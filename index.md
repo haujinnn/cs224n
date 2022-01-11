@@ -43,7 +43,7 @@ layout: home
 ## Writing Guide
 1. _posts 폴더에 마크다운 문법으로 작성
 2. 이미지는 assets 폴더에 넣고 Link (Typora, MarkText 등을 사용하면 Ctrl + C, V나 Drag & Drop으로 바로 연동 가능)
-3. 수식은 \$$ 달러 두개 사이에 작성 \$$ **달러 한개 아님**
+3. 수식은 달러 두개 사이에 작성 **달러 한개 아님**
 4. TeX 문법에 익숙하지 않다면 톡방에 바로 물어보거나 [링크](https://zetawiki.com/wiki/TeX_%EB%AC%B8%EB%B2%95) 참조 
 5. H1에 **볼드 표시** 할것
 
