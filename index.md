@@ -1,5 +1,5 @@
 ---
-title : CS224n 자연어처리 2021 겨울학기 공부 노트
+title : CS224N 자연어처리 2021 겨울학기 공부 노트
 layout: home
 ---
 
@@ -19,8 +19,8 @@ layout: home
 
 |강의 (Youtube)|담당자|노트|작성일|
 |:------------:|:----:|:--:|:----:|
-|[Lecture 1 - Introduction and Word Vectors](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=1)|[최지원](https://jasonchoi.dev)|[Link](./LectureNote/lecture1.md)|2022.01.05|
-|[Lecture 2 - Neural Classifiers](https://www.youtube.com/watch?v=gqaHkPEZAew&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=2)|[최지원](https://jasonchoi.dev)|[Link](./LectureNote/lecture2.md)|2022.01.05|
+|[Lecture 1 - Introduction and Word Vectors](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=1)|[최지원](https://jasonchoi.dev)|[Link](https://skku-comedu-nlp.github.io/cs224n/lecture%20note/2022-01-05-Lecture-1.html)|2022.01.05|
+|[Lecture 2 - Neural Classifiers](https://www.youtube.com/watch?v=gqaHkPEZAew&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=2)|[최지원](https://jasonchoi.dev)|[Link](https://skku-comedu-nlp.github.io/cs224n/lecture%20note/2022-01-05-Lecture-2.html)|2022.01.05|
 |[Lecture 3 - Backprop and Neural Networks](https://www.youtube.com/watch?v=X0Jw4kgaFlg&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=3)|[김보민](https://github.com/nimod7890) |Link|2022.01.12|
 |[Lecture 4 - Dependency Parsing](https://www.youtube.com/watch?v=PSGIodTN3KE&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=4)|[정소연](https://github.com/happysoy)|Link|2022.01.12|
 |[Lecture 5 - Language Models and RNNs](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=5)|[최재석](https://github.com/xy5787)|Link|2022.01.19|
