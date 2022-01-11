@@ -16,8 +16,9 @@ layout: home
 - [하유진](https://github.com/haujinnn)
 
 ## Lecture Note
+
 |강의 (Youtube)|담당자|노트|작성일|
-|:---|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|
 |[Lecture 1 - Introduction and Word Vectors](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=1)|[최지원](https://jasonchoi.dev)|[Link](./LectureNote/lecture1.md)|2022.01.05|
 |[Lecture 2 - Neural Classifiers](https://www.youtube.com/watch?v=gqaHkPEZAew&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=2)|[최지원](https://jasonchoi.dev)|[Link](./LectureNote/lecture2.md)|2022.01.05|
 
