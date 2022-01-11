@@ -2,76 +2,43 @@
 layout: home
 ---
 
-Make Jelly site have a GitBook look!
+# CS224n 자연어처리 2021 겨울학기 공부 노트
+성균관대학교 컴퓨터교육과 학생들의 2022년 겨울 자연어 처리 스터디 입니다. 최신 버전 (2021 Winter)로 진행하였습니다. 
 
-## Demo
+<br><br>
 
-Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
+## 참여자
+- [최지원](https://jasonchoi.dev)
+- [김보민](https://github.com/nimod7890) 
+- [김준영](https://github.com/junieberry)
+- [신동수](https://github.com/zero-DS)
+- [장지원](https://github.com/jiwon-center)
+- [정소연](https://github.com/happysoy)
+- [최재석](https://github.com/xy5787)
+- [하유진](https://github.com/haujinnn)
+<br><br>
 
-[![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
 
-## Why Jekyll with GitBook
-
-GitBook is an amazing frontend style to present and organize contents (such as book chapters
-and blogs) on Web. The typical to deploy GitBook at [Github Pages][1]
-is building HTML files locally and then push to Github repository, usually to the `gh-pages`
-branch. It's quite annoying to repeat such workload and make it hard for people do version
-control via git for when there are generated HTML files to be staged in and out.
-
-This theme takes style definition out of generated GitBook site and provided the template
-for Jekyll to rendering markdown documents to HTML, thus the whole site can be deployed
-to [Github Pages][1] without generating and uploading HTML bundle every time when there are
-changes to the original repo.
-
-## How to Get Started
-
-This theme can be used just as other [Jekyll themes][1].
-
-[Fork][3] this repository and add your markdown posts to the `_posts` folder.
-
-### Deploy Locally with Jekyll Serve
-
-This theme can be ran locally using Ruby and Gemfiles.
-
-[Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll) - GitHub
-
-## Full-text search
-
-The search functionality in jekyll-gitbook theme is powered by the [gitbook-plugin-search-pro][5] plugin and is enabled by default.
-
-[https://sighingnow.github.io/jekyll-gitbook/?q=generated](https://sighingnow.github.io/jekyll-gitbook/?q=generated)
-
-## Code highlight
-
-The code highlight style is configurable the following entry in `_config.yaml`:
-
-```yaml
-syntax_highlighter_style: colorful
-```
-
-The default code highlight style is `colorful`, the full supported styles can be found from [the rouge repository][6]. Customized
-style can be added to [./gitbook/rouge/](./gitbook/rouge/).
-
-## How to generate TOC
-
-The jekyll-gitbook theme leverages [jekyll-toc][4] to generate the *Contents* for the page.
-The TOC feature is not enabled by default. To use the TOC feature, modify the TOC
-configuration in `_config.yml`:
-
-```yaml
-toc:
-    enabled: true
-```
-
-## License
-
-This work is open sourced under the Apache License, Version 2.0.
-
-Copyright 2019 Tao He.
-
-[1]: https://pages.github.com
-[2]: https://pages.github.com/themes
-[3]: https://github.com/sighingnow/jekyll-gitbook/fork
-[4]: https://github.com/allejo/jekyll-toc
-[5]: https://github.com/gitbook-plugins/gitbook-plugin-search-pro
-[6]: https://github.com/rouge-ruby/rouge/tree/master/lib/rouge/themes
+## Lecture Note
+|강의 (Youtube)|담당자|노트|작성일|
+|:---|:---:|:---:|:---:|
+|[Lecture 1 - Introduction and Word Vectors](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=1)|[최지원](https://jasonchoi.dev)|[Link](./LectureNote/lecture1.md)|2022.01.05|
+|[Lecture 2 - Neural Classifiers](https://www.youtube.com/watch?v=gqaHkPEZAew&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=2)|[최지원](https://jasonchoi.dev)|[Link](./LectureNote/lecture2.md)|2022.01.05|
+|[Lecture 3 - Backprop and Neural Networks](https://www.youtube.com/watch?v=X0Jw4kgaFlg&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=3)|[김보민](https://github.com/nimod7890) |Link|
+|[Lecture 4 - Dependency Parsing](https://www.youtube.com/watch?v=PSGIodTN3KE&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=4)|[정소연](https://github.com/happysoy)|Link|
+|[Lecture 5 - Language Models and RNNs](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=5)|[최재석](https://github.com/xy5787)|Link|
+|[Lecture 6 - Simple and LSTM RNNs](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=6)|[신동수](https://github.com/zero-DS)|Link|
+|[Lecture 7 - Translation, Seq2Seq, Attention](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=7)|[하유진](https://github.com/haujinnn)|Link|
+|[Lecture 8 - Final Projects; Practical Tips](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=8)||Skip|||
+|[Lecture 9 - Self- Attention and Transformers](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=9)|[김준영](https://github.com/junieberry)|Link|
+|[Lecture 10 - Transformers and Pretraining](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=10)|[최지원](https://jasonchoi.dev)|Link|
+|[Lecture 11 - Question Answering](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=11)|[장지원](https://github.com/jiwon-center)|Link|
+|[Lecture 12 - Natural Language Generation](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=12)|[김준영](https://github.com/junieberry)|Link|
+|[Lecture 13 - Coreference Resolution](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=13)|[신동수](https://github.com/zero-DS)|Link|
+|[Lecture 14 - T5 and Large Language Models](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=14)|[최재석](https://github.com/xy5787)|Link|
+|[Lecture 15 - Add Knowledge to Language Models](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=15)|[정소연](https://github.com/happysoy)|Link|
+|[Lecture 16 - Social & Ethical Considerations](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=16)||Skip|||
+|[Lecture 17 - Model Analysis and Explanation](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=17)|[하유진](https://github.com/haujinnn)|Link|
+|[Lecture 18 - Future of NLP + Deep Learning](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=18)|[최지원](https://jasonchoi.dev)|Link|
+|[Lecture 19 - Low Resource Machine Translation](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=19)|[김보민](https://github.com/nimod7890)|Link|
+|[Lecture 20 - BERT and Other Pre-trained Language Models](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=20)|[장지원](https://github.com/jiwon-center)|Link|
