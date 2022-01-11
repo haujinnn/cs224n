@@ -49,4 +49,5 @@ layout: home
 
 ## Contributing Guide
 1. 작성 담당자는 Repository에 직접 Commit & Push
-2. 본인 파트가 아닌데 수정하고 싶을 경우 Pull Request를 날리거나 귀찮다면(....) 톡방에다 알려주기
+2. 자기거 쓰고 index.md랑 README.md도 수정 바람
+3. 본인 파트가 아닌데 수정하고 싶을 경우 Pull Request를 날리거나 귀찮다면(....) 톡방에다 알려주기
