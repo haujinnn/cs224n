@@ -39,3 +39,14 @@ layout: home
 |[Lecture 18 - Future of NLP + Deep Learning](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=18)|[최지원](https://jasonchoi.dev)|Link|2022.02.23|
 |[Lecture 19 - Low Resource Machine Translation](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=19)|[김보민](https://github.com/nimod7890)|Link|2022.02.23|
 |[Lecture 20 - BERT and Other Pre-trained Language Models](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=20)|[장지원](https://github.com/jiwon-center)|Link|2022.03.02|
+
+## Writing Guide
+1. _posts 폴더에 마크다운 문법으로 작성
+2. 이미지는 assets 폴더에 넣고 Link (Typora, MarkText 등을 사용하면 Ctrl + C, V나 Drag & Drop으로 바로 연동 가능)
+3. 수식은 \$$ 달러 두개 사이에 작성 \$$ **달러 한개 아님**
+4. TeX 문법에 익숙하지 않다면 톡방에 바로 물어보거나 [링크](https://zetawiki.com/wiki/TeX_%EB%AC%B8%EB%B2%95) 참조 
+5. H1에 **볼드 표시** 할것
+
+## Contributing Guide
+1. 작성 담당자는 Repository에 직접 Commit & Push
+2. 본인 파트가 아닌데 수정하고 싶을 경우 Pull Request를 날리거나 귀찮다면(....) 톡방에다 알려주기
