@@ -24,7 +24,7 @@
 |[Lecture 6 - Simple and LSTM RNNs](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=6)|[신동수](https://github.com/zero-DS)|[Link](https://skku-comedu-nlp.github.io/cs224n/lecture%20note/2022-01-19-Lecture-6.html)|2022.01.19|
 |[Lecture 7 - Translation, Seq2Seq, Attention](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=7)|[하유진](https://github.com/haujinnn)|Link|2022.01.26|
 |[Lecture 8 - Final Projects; Practical Tips](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=8)||Skip||
-|[Lecture 9 - Self- Attention and Transformers](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=9)|[김준영](https://github.com/junieberry)|Link|2022.01.26|
+|[Lecture 9 - Self- Attention and Transformers](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=9)|[김준영](https://github.com/junieberry)|[Link](https://skku-comedu-nlp.github.io/cs224n/lecture%20note/2022-01-26-Lecture-9.html)|2022.01.26|
 |[Lecture 10 - Transformers and Pretraining](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=10)|[최지원](https://jasonchoi.dev)|Link|2022.02.02|
 |[Lecture 11 - Question Answering](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=11)|[장지원](https://github.com/jiwon-center)|Link|2022.02.02|
 |[Lecture 12 - Natural Language Generation](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=12)|[김준영](https://github.com/junieberry)|Link|2022.02.09|
